@@ -5,7 +5,7 @@
 She is currently pursuing a Master's Degree in Computer Science, at Beijing University of Posts and Telecommunications, China.
 
 #### Email
-sli[at]cumt.edu.cn
+1620268611@qq.com
 
 #### Education
 M.S., Computer Science, Beijing University of Posts and Telecommunications (BUPT), 2023—Present
