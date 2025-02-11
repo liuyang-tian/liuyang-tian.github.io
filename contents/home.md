@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![liuyang-tian](https://img.shields.io/badge/liuyang-tian-github-blue?logo=github)](https://github.com/liuyang-tian)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Master's Degree in Computer Science, at Beijing University of Posts and Telecommunications, China.
 
 #### Email
 sli[at]cumt.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Computer Science, Beijing University of Posts and Telecommunications (BUPT), 2023—Present
+B.S., Computer Science, Beijing University of Posts and Telecommunications (BUPT), 2019—2023
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Graph Neural Network
 
